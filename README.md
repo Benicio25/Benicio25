@@ -1,4 +1,4 @@
-**## Bem-vindo(a) ao perfil do Dev Benicio25 😁
+## Bem-vindo(a) ao perfil do Dev Benicio25 😁
 
  <div>
    <a href="https://github.com/Benicio25">
